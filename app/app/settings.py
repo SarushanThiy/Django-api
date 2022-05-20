@@ -33,7 +33,6 @@ ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', 'dry-tundra-23069.herokuap
 # Application definition
 
 INSTALLED_APPS = [
-    'customer.apps.CustomerConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
